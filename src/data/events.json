@@ -1,0 +1,254 @@
+{"events": 
+{
+  "-Bh5KtY3pM2lQ9sE8W6": {
+    "date": 1798750400000,
+    "description": "Um dos maiores festivais de música do mundo, com artistas de diversos gêneros musicais.",
+    "hotels": [
+      {
+        "address": "Rua Melo Alves, 20 - Cerqueira César",
+        "dailyRate": 350,
+        "name": "Melia Paulista",
+        "proximity": 300
+      },
+      {
+        "address": "Alameda Santos, 1437 - Cerqueira César",
+        "dailyRate": 300,
+        "name": "Tivoli Mofarrej São Paulo",
+        "proximity": 500
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/169198/pexels-photo-169198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1190295/pexels-photo-1190295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "São Paulo, São Paulo",
+    "name": "Lollapalooza Brasil",
+    "price": 25
+  },
+  "-Dl7ZfP1mR6kQ8yO2N4": {
+    "date": 1799555200000,
+    "description": "Um grande evento cultural com diversas atrações artísticas espalhadas pela cidade.",
+    "hotels": [
+      {
+        "address": "Av. Brigadeiro Luís Antônio, 4700 - Jardim Paulista",
+        "dailyRate": 500,
+        "name": "Hotel Unique",
+        "proximity": 200
+      },
+      {
+        "address": "Av. das Nações Unidas, 13301 - Itaim Bibi",
+        "dailyRate": 450,
+        "name": "Grand Hyatt São Paulo",
+        "proximity": 500
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/885288/pexels-photo-885288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/285598/pexels-photo-285598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "São Paulo, São Paulo",
+    "name": "Virada Cultural de São Paulo",
+    "price": 80
+  },
+  "-GzQyT9I8uN6fLx5K3J": {
+    "date": 1770384000000,
+    "description": "Um dos maiores festivais folclóricos do Brasil, com apresentações de boi-bumbá.",
+    "hotels": [
+      {
+        "address": "Rua Ferreira Pena, 1 - Centro",
+        "dailyRate": 180,
+        "name": "Amazon River Palace Hotel",
+        "proximity": 300
+      },
+      {
+        "address": "Rua Jonh Kennedy, 500 - Centro",
+        "dailyRate": 150,
+        "name": "Hotel Búzios",
+        "proximity": 500
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/1395964/pexels-photo-1395964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1313817/pexels-photo-1313817.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Parintins, Amazonas",
+    "name": "Festival de Parintins",
+    "price": 0
+  },
+  "-JgFp0nKZqR47oVd8N9": {
+    "date": 1776633600000,
+    "description": "Um dos maiores festivais de música do mundo, com apresentações de rock, pop, eletrônica e mais.",
+    "hotels": [
+      {
+        "address": "Av. Atlântica, 1020 - Copacabana",
+        "dailyRate": 450,
+        "name": "Hilton Copacabana Rio de Janeiro",
+        "proximity": 500
+      },
+      {
+        "address": "Av. Atlântica, 1800 - Copacabana",
+        "dailyRate": 400,
+        "name": "Windsor Excelsior Copacabana",
+        "proximity": 700
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Rio de Janeiro, Rio de Janeiro",
+    "name": "Rock in Rio",
+    "price": 30
+  },
+  "-KnT3uYJzLPw7qbDh52": {
+    "date": 1782718400000,
+    "description": "Uma das maiores festas juninas do Brasil, com quadrilhas, comidas típicas e muito forró.",
+    "hotels": [
+      {
+        "address": "Av. Pres. Epitácio Pessoa, 1020 - Bodocongó",
+        "dailyRate": 200,
+        "name": "Hotel Village Premium Campina Grande",
+        "proximity": 500
+      },
+      {
+        "address": "Av. Almeida Barreto, 565 - Catolé",
+        "dailyRate": 180,
+        "name": "Garden Hotel",
+        "proximity": 700
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/698907/pexels-photo-698907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Campina Grande, Paraíba",
+    "name": "Festa Junina de Campina Grande",
+    "price": 15
+  },
+  "-Lz9QYXzJF3Fzg6oRiH": {
+    "date": 1788864000000,
+    "description": "Um dos principais festivais de cinema do Brasil, com exibição de filmes nacionais e internacionais.",
+    "hotels": [
+      {
+        "address": "Rua Pedro Candiago, 305 - Planalto",
+        "dailyRate": 400,
+        "name": "Hotel Ritta Höppner",
+        "proximity": 100
+      },
+      {
+        "address": "Rua Cel. João Correa, 287 - Centro",
+        "dailyRate": 350,
+        "name": "Hotel Serra Azul",
+        "proximity": 200
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/1684187/pexels-photo-1684187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1123254/pexels-photo-1123254.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Gramado, Rio Grande do Sul",
+    "name": "Festival de Cinema de Gramado",
+    "price": 50
+  },
+  "-Mj47Cg8JWV58PykOZl": {
+    "date": 1757398400000,
+    "description": "Um dos maiores carnavais do mundo, com muita música, dança e folia.",
+    "hotels": [
+      {
+        "address": "Av. Sete de Setembro, 3577 - Barra",
+        "dailyRate": 300,
+        "name": "Hotel Bahia Mar",
+        "proximity": 500
+      },
+      {
+        "address": "Av. Sete de Setembro, 3786 - Barra",
+        "dailyRate": 250,
+        "name": "Hotel Porto da Barra",
+        "proximity": 700
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/433452/pexels-photo-433452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Salvador, Bahia",
+    "name": "Carnaval de Salvador",
+    "price": 100
+  },
+  "-Pk3HxR4s7sT6zL9e2o": {
+    "date": 1814764800000,
+    "description": "Uma das maiores festas de réveillon do mundo, com queima de fogos e shows na praia de Copacabana.",
+    "hotels": [
+      {
+        "address": "Av. Atlântica, 1702 - Copacabana",
+        "dailyRate": 600,
+        "name": "Belmond Copacabana Palace",
+        "proximity": 200
+      },
+      {
+        "address": "Av. Atlântica, 3668 - Copacabana",
+        "dailyRate": 550,
+        "name": "Miramar Hotel by Windsor",
+        "proximity": 500
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/20380281/pexels-photo-20380281/free-photo-of-panagbenga-festival-das-flores-de-baguio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/16015549/pexels-photo-16015549/free-photo-of-baloes-sobre-waikato-quinta-feira-de-manha-2023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Rio de Janeiro, Rio de Janeiro",
+    "name": "Réveillon de Copacabana",
+    "price": 10
+  },
+  "-Vn9CwS2oL8pQ4mH7X3": {
+    "date": 1767273600000,
+    "description": "Um festival de música que celebra o verão baiano, com artistas nacionais e internacionais.",
+    "hotels": [
+      {
+        "address": "Rua Passárgada, s/n - Itapuã",
+        "dailyRate": 350,
+        "name": "Hotel Deville Prime Salvador",
+        "proximity": 200
+      },
+      {
+        "address": "Rua Ewerton Visco, 160 - Caminho das Árvores",
+        "dailyRate": 300,
+        "name": "Hotel Mercure Salvador Boulevard",
+        "proximity": 500
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/3249760/pexels-photo-3249760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1376124/pexels-photo-1376124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Salvador, Bahia",
+    "name": "Festival de Verão de Salvador",
+    "price": 10
+  },
+  "-WxR2Aq45gPzL6jsKI1": {
+    "date": 1788105600000,
+    "description": "A maior festa alemã das Américas, com muita cerveja, comida típica e música.",
+    "hotels": [
+      {
+        "address": "Rua Sete de Setembro, 818 - Centro",
+        "dailyRate": 250,
+        "name": "Hotel Plaza Blumenau",
+        "proximity": 300
+      },
+      {
+        "address": "Rua 7 de Setembro, 954 - Centro",
+        "dailyRate": 220,
+        "name": "Hotel Glória Blumenau",
+        "proximity": 500
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/2034851/pexels-photo-2034851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "location": "Blumenau, Santa Catarina",
+    "name": "Oktoberfest Blumenau",
+    "price": 20
+  }
+}
+}
